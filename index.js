@@ -17,7 +17,7 @@ function calculation() {
         document.getElementById('result').innerHTML = res;
     
     } else {
-        res = 'win even number';
+        res = 'win';
         document.getElementById('main').style.background = "linear-gradient(green, chartreuse)";
         document.getElementById('result').innerHTML = res;
            
